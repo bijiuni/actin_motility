@@ -54,7 +54,7 @@ Finally the codes calculate the curvature and output the result:
 
 ## Built With
 
-* [ImageJ](https://www.tensorflow.org/) - An open source machine learning framework
+* [ImageJ](https://www.tensorflow.org/) - a Java-based image processing program
 * [Matlab](https://www.mathworks.com/products/matlab.html)
 
 ## Authors
