@@ -26,8 +26,10 @@ In this project, two algorithms were designed to analyze actin-based mitility tr
 ![sample 2](https://github.com/bijiuni/actin_motility/blob/master/2D/2green.jpg)
 
 3. Choose the second point as ending point (and the chosen curve will become red, otherwise screen display 'not on curve')
+
 ![sample 1](https://github.com/bijiuni/actin_motility/blob/master/2D/1red.jpg)
 ![sample 2](https://github.com/bijiuni/actin_motility/blob/master/2D/2red.jpg)
+
 
 4. If all of above is successful, the code randomly picks 10 points from the chosen part of the curve and calculate curvature by fitting polygons to points and display the results.
 
